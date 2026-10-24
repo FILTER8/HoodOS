@@ -1,0 +1,3 @@
+#pragma once
+#define HOOD_WIFI_SSID "YOUR_WIFI_NAME"
+#define HOOD_WIFI_PASSWORD "YOUR_WIFI_PASSWORD"

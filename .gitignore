@@ -1,0 +1,6 @@
+.DS_Store
+**/secrets.h
+*.bin
+*.elf
+*.map
+build/
