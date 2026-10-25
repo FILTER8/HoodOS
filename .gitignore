@@ -1,6 +1,16 @@
-.DS_Store
+# Private local Wi-Fi settings
 **/secrets.h
+
+# Environment variables and API keys
+**/.env
+**/.env.*
+!**/.env.example
+
+# Arduino artifacts
 *.bin
 *.elf
 *.map
-build/
+*.hex
+
+# macOS
+.DS_Store
